@@ -1,8 +1,4 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎨 **AI Image Generator with React** 🚀
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This mini project combines **AI** and **React** to create an image generator using the **OpenAI DALL·E API**. Users can enter descriptive text and get unique images generated based on their input. ✍️🖼️ The project features **Tailwind CSS** for responsive styling. Check it out to see how AI and modern front-end tech come together! 🌟
